@@ -1,0 +1,6 @@
+{
+  "Base Line Models": {"Accuracy": 0.75, "F1": 0.72, "Params": "10K"},
+  "CNN-LSTM": {"Accuracy": 0.82, "F1": 0.80, "Params": "1.2M"},
+  "Transformer": {"Accuracy": 0.85, "F1": 0.83, "Params": "3.4M"},
+  "GNN": {"Accuracy": 0.78, "F1": 0.76, "Params": "500K"}
+}
